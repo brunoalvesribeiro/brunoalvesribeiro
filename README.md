@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunoalvesribeiro
-- 👀 I’m interested in jenkins, python, ci/di, devops
+- 👀 I’m interested in
 - 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on sbs
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
